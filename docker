@@ -1,1 +1,2 @@
-docker file
+What is Container?  
+A Docker container is a lightweight, standalone, and executable software package that bundles an application and all its dependencies, ensuring it runs quickly and reliably in any computing environment. 
