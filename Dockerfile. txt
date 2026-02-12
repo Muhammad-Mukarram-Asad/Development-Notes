@@ -12,6 +12,7 @@ Isolation: Each container runs as an isolated process, meaning applications in d
 Key Docker Concepts:  
 
 1) **Docker Image:** A read-only template or blueprint used to create a container. It's the "recipe" or "schematic" for the software package.
-2) Docker Engine: The core software that runs and manages the containers on a host machine.
-3) Dockerfile: A simple text file with instructions that automate the process of creating a Docker image. 
+2) **Docker Engine:** The core software that runs and manages the containers on a host machine.
+3) **Dockerfile:** A simple text file with instructions that automate the process of creating a Docker image. 
+
 Docker makes it easy for developers to build, share, and run distributed applications by providing a consistent and portable environment across the entire software development lifecycle.
